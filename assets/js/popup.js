@@ -37,7 +37,7 @@ document.addEventListener("DOMContentLoaded", () => {
   /**
    * LANDER LOGIC (Redirect on both buttons)
    */
-  const landerRedirect = "https://urbanvertex.online/";
+  const landerRedirect = "https://boosthive.site/";
 
   document.getElementById("gn-yes").addEventListener("click", () => {
     if (isLander) {
